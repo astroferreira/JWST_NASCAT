@@ -19,9 +19,10 @@ I ignored fluxes, mags and etc as the image is not in scientific format it most 
 ## Catalog
 Structure, non-parametric morphology and Sérsic profiles for ~490 sources in that JPEG.
 
-The catalog is provided in a FITS table (NASCAT.fits) format and contains the following parameters:
-
 ![alt text](NASCAT.png "NASCAT.png")
+
+The catalog is provided in a FITS table (NASCAT.fits) format and contains the following parameters. The image show the values truncated to 2 decimal places.
+
 
 > Basic info (for 490 sources) & Structure (for 437 sources)
   1. ID
