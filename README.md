@@ -1,4 +1,4 @@
-# JWST NASCAT (Not a Science Catalog)
+# JWST NASCAT (Not a Science Catalog) [![DOI](https://zenodo.org/badge/473241113.svg)](https://zenodo.org/badge/latestdoi/473241113)
 
 The first ever JWST morphology catalog of ~490 sources from the Telescope Alignment Evaluation JPEG Image (https://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully). 
 
