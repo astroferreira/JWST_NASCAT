@@ -21,6 +21,8 @@ Structure, non-parametric morphology and Sérsic profiles for ~490 sources in th
 
 The catalog is provided in a FITS table (NASCAT.fits) format and contains the following parameters:
 
+![alt text](NASCAT.png "NASCAT.png")
+
 > Basic info (for 490 sources) & Structure (for 437 sources)
   1. ID
   2. RA, DEC
