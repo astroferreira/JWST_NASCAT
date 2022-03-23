@@ -14,6 +14,7 @@ After a couple of hours hiking hilly areas around Nottingham last Saturday, I th
 
 I reduced the fits file produced by gbrammer (https://github.com/gbrammer/jwst_EERS), colapsed the RGB red colourmap into a greyscale image, masked the central star, estimated the background and detected the sources within it (everything was done with Photutils). From it, I generated stamps that were then fed to Morfometryka, which measures several structural and morphological parameters. A jupyter notebook with the main steps can be found in the body of the repository.
 
+I ignored fluxes, mags and etc as the image is not in scientific format it most likely has truncated counts, renormalized to enhance faint structures and etc. 
 
 ## Catalog
 Structure, non-parametric morphology and Sérsic profiles for ~490 sources in that JPEG.
