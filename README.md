@@ -46,8 +46,8 @@ The catalog is provided in a FITS table (NASCAT.fits) format and contains the fo
   6. M20 - Second order moment of light for 20% of the brightest pixels
   7. H - Normalized Information Entropy
 
-You can for example, explore non-parametric morphology of the sources in the image
-![alt text](AxC.png "AxC.png")
+You can for example, explore non-parametric morphology of the sources in the image <br>
+<img src="AxC.png" alt="AxC.png" width="500"/>
 
 
 
